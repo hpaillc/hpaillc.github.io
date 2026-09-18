@@ -1,0 +1,17 @@
+# Simple workflow for deploying static content to GitHub Pages
+name:High Plains Aerial Imaging LLC
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── hero-drone.jpg
+│   ├── crop-health.jpg
+│   ├── spraying.jpg
+│   └── wyoming-ranch.jpg
+│
+├── agriculture-spraying.html
+├── crop-health.html
+├── precision-agriculture.html
+├── about.html
+└── contact.html
